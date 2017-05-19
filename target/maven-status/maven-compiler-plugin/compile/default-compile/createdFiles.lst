@@ -1,0 +1,6 @@
+com\springdemob\dao\UsersDaoImpl.class
+com\springdemob\persistence\HibernateUtil.class
+com\springdemob\dao\UsersDao.class
+com\springdemob\controllers\MainController.class
+com\springdemob\service\LoginService.class
+com\springdemob\common\LoginForm.class
